@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YiannisRoss
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Ruby on Rails, as well as HTML, CSS and JavaScript
+- 🌱 I’m using Ruby on Rails for back-end, and HTML/CSS/Javascript for front-end projects.
 <!--- 💞️ I’m looking to collaborate on anything, as long as I can learn something! --->
 - 📫 Reach me at my email: RossiadisJ@gmail.com
 
