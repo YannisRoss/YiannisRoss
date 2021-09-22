@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YiannisRoss
+- 👋 Hi, I’m Yiannis!
 - 👀 I’m interested in web development.
 - 🌱 I’m using Ruby on Rails for back-end, and HTML/CSS/Javascript for front-end projects.
 <!--- 💞️ I’m looking to collaborate on anything, as long as I can learn something! --->
